@@ -82,6 +82,7 @@ type (
 )
 
 // virtual
+//初始化
 func (this *Socket) Init(string, int) bool {
 	this.m_PacketFuncList = vector.NewVector()
 	this.m_nState = SSF_SHUT_DOWN

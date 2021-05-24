@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48577825-a92d-4c0c-b73f-4177e3909d59" name="Default Changelist" comment="11" />
+    <list default="true" id="48577825-a92d-4c0c-b73f-4177e3909d59" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/Version.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/Version.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/radom.go" beforeDir="false" afterPath="$PROJECT_DIR$/base/radom.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/ClientSocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ClientSocket.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/Isocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/Isocket.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/ServerSocketClient.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ServerSocketClient.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/WebSocket.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/WebSocket.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/network/WebSocketClient.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/WebSocketClient.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
